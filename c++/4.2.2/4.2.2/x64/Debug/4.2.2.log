@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\尔康\Desktop\c\4.2.2\4.2.2\FileName.cpp(7,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\尔康\Desktop\c\4.2.2\4.2.2\FileName.cpp(12,52): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\尔康\Desktop\c\4.2.2\4.2.2\FileName.cpp(14,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  4.2.2.vcxproj -> C:\Users\尔康\Desktop\c\4.2.2\x64\Debug\4.2.2.exe
